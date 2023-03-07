@@ -1,0 +1,64 @@
+@media only screen and (min-width: 1024px) {
+
+    body {
+        line-height: 2;
+        margin: 0 auto;
+        max-width: 1300px;
+    }
+
+    #zerobox {
+        margin-top: 40px;
+        width: 90%;
+        padding: 20px;
+    }
+
+    
+
+    #title {
+        margin-bottom: 10px;
+        font-size: 3.5rem;
+    }
+
+    #subtitle {
+        font-size: 1.5rem;
+    }
+
+
+    .main {
+        margin-top: 40px;
+        width: 90%;
+        padding: 30px;
+    }
+
+    #firstbox {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    #city {
+        height: 40px;
+        width: 80%;
+        padding: 0 10px;
+        font-size: 18px;
+    }
+
+    .button {
+        width: 10%;
+        height: 40px;
+        text-align: center;
+        margin-left: 10px;
+        border-radius: 20px;
+        font-size: 18px;
+    }
+
+    #score {
+       
+        gap: 30px 50px;
+        margin: 50px 0;
+    }
+
+  
+
+}
